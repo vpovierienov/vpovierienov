@@ -1,12 +1,27 @@
-- 👋 Hi, I’m Vitalii Povierienov - FrontEnd Developer / From  UA -  Living in Deutchland, Bayern. 
-- 👀 I’m interested in JavaScript and Web Development. Creating app and web-sites with different frameworks and technologies.
-- 🌱 I’m currently learning hard to improve my skills in FE every day.
-- 💞️ I’m open to offers and new projects.
+## 👋 Hi there, I'm Vitalii Povierienov
 
-- 👀 How to reach me: 📫 email:  vpovierienov.dev@gmail.com
-- tel: +49 151 728 34 338
-- telegram-name: @pvu_111
-                          https://de.linkedin.com/in/vitalii-povierienov-90647b212
---------------------------
-Feel free to contact me.
+🎯 **Front-End Developer** at [Mintoryx]  
+🇺🇦 From Ukraine & 🇩🇪 Based in Bavaria, Germany
+
+---
+💡 About Me
+
+🔭 Experienced in JavaScript and contemporary Web Development, specializing in building scalable, performant, and user-friendly front-end applications.
+
+🚀 Proficient with a variety of frameworks and libraries, committed to writing clean, maintainable, and well-documented code.
+
+🌱 Actively enhancing expertise in frontend architecture, animation techniques, and UX/UI design principles to deliver exceptional user experiences.
+
+🤝 Open to professional collaborations, remote freelance opportunities, and challenging projects that drive innovation and growth.
+---
+
+### 📬 Contact Me
+
+- 📧 Email: [vpovierienov.dev@gmail.com](mailto:vpovierienov.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vitalii-povierienov-90647b212](https://de.linkedin.com/in/vitalii-povierienov-90647b212)
+- 💬 Telegram: [@mintoryx_developers](https://t.me/mintoryx_developers)
+
+---
+
+> Feel free to reach out — I’m always happy to connect and explore new opportunities.
 
