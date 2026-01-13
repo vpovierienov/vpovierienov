@@ -19,7 +19,7 @@
 
 - 📧 Email: [vpovierienov.dev@gmail.com](mailto:vpovierienov.dev@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vitalii-povierienov-90647b212](https://de.linkedin.com/in/vitalii-povierienov-90647b212)
-- 💬 Telegram: [@mintoryx_developers](https://t.me/mintoryx_developers)
+- 💬 Telegram: [@pvu_111)
 
 ---
 
