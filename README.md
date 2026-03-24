@@ -1,8 +1,5 @@
 ## 👋 Hi there, I'm Vitalii Povierienov
-
-🎯 **Front-End Developer** at [Mintoryx]  
 🇺🇦 From Ukraine & 🇩🇪 Based in Bavaria, Germany
-
 ---
 💡 About Me
 
