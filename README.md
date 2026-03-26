@@ -28,21 +28,6 @@
 | **Modern Navigation UI** | JS, CSS, HTML | ✅ Completed | [View Repo](https://github.com/vpovierienov/navigation-component) |
 | **Portfolio Site** | React, Vite | 🚀 Live | [Live Demo](#) |
 
-
----
-
-### 📊 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpovierienov&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Vitalii's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpovierienov&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpovierienov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📬 Contact Me
